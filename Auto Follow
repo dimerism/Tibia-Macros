@@ -1,7 +1,7 @@
 
 --Description: A macro to follow players through stairs, doors, ladders, sewer gates and some other things. 
---A message error appears on the log, but other than that everything seems to run well... save for the eventual hiccups!
---ATTENTION: It might not work if multiple "use objects" that lead to different places are near eachother.
+--A message error appears on the log, but other than that everything seems to run well... save for the eventual hiccups.
+--ATTENTION: It might not work if multiple "use objects" that lead to different paths are near eachother.
 
 Follow = macro(1000,"Follow",function()
 
